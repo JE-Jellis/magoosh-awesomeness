@@ -1,7 +1,7 @@
 Magoosh Awesomeness
 ===================
 
-A list of references, articles, guides, and bookmarks that are particularly
+A list of awesome references, articles, guides, and bookmarks that are particularly
 useful for working at Magoosh. If you find any new articles that you think are
 insightful or would help new Magooshers, then please, please add them :)
 
@@ -19,7 +19,7 @@ insightful or would help new Magooshers, then please, please add them :)
   * [UI Design](#ui-design)
   * [Communication & Culture](#communication--culture)
   * [Engineering Management](#engineering-management)
-  
+
 Product & Programming
 ---------------------
 
